@@ -1,4 +1,4 @@
-# 📚 DigitalLibrary API
+# 📚 Digital Library 
 
 A **Spring Boot–based RESTful API** that simulates a Digital Library System — allowing users to sign up, browse available books, rent them, and return them.
 
